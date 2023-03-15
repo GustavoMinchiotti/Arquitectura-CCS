@@ -80,6 +80,20 @@ Ejemplo: cada etiqueta `input` `button`
 **Páginas** Este es el último nivel del Atomic Design. Son en realidad el diseño final que ya contiene las imágenes y otros detalles
 que hacen que ese archivo ya esté listo para el desarrollo o, en su defecto, test con usuarios o el equipo.
 
+Como ejemplo la profesora creo archivos atómicos de Css para el menu.
+
+![img_3.png](img_3.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
