@@ -84,32 +84,4 @@ Como ejemplo la profesora creo archivos atómicos de Css para el menu.
 
 ![img_3.png](img_3.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.
-
-
-
-
-
-
-
-
-
-
-
-
+Trabajando con Atomic veo que a mi parecer es demasiado engorroso me resulta exagerado atomizar tanto los archivos css.
