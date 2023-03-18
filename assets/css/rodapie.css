@@ -2,7 +2,18 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-top: 5rem;
-    padding-left: 2rem;
     
+}
+@media screen and (min-width: 0) {
+    .rodapie {
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width: 768PX) {
+    .rodapie {
+        flex-direction: row;
+        padding-top: 5rem;
+        padding-left: 2rem;
+    }
 }
